@@ -1,0 +1,14 @@
+id,country,airport,flight_duration,distance,contact,sos_num
+00,Iceland,Keflavik,2,0.0,None,None
+01,Greenland,Nuuk,03:20,1400,None,None
+02,Greenland,Kulusuk,01:50,715,None,None
+03,Faroe Islands,Tórshavn,01:30,800,None,None
+04,United Kingdom,Tingwall,02:00,1200,None,None
+05,Svalbard,Longyearbyen,8:15,2020,None,None
+06,Sweden,Arlanda,04:00,3000,Ludvig Ström,00398785463
+07,Norway,Oslo,03:50,3020,Sverre Torsten,00365498765
+08,Germany,Berlin,04:00,3000,Helmut Schulz,004925489856
+09,Belgium,Antwerp,03:00,2500,Man Mansson,00369874589
+10,France,Paris,05:00,3000,Pierre Prada,654897658
+11,Italy,Milan,05:00,4000,Luigi Caravaggio,0041254878965
+12,Norway,Bergen,04:00,2500,Torvald Bakken,00321654985

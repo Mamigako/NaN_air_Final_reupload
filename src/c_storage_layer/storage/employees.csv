@@ -1,0 +1,22 @@
+name,SSN,role,islead,address,gsm,email,home_phone
+Bob Grace,5362718942,attendant,False,Oak 47,3487592,Bob_Grace@example.com,6729183
+Emma Watson,8765432198,pilot,True,Maple 84,6534812,Emma_Harry@example.com,7459218
+Frank Alistair,1234567890,attendant,True,Main 53,2378465,Frank_Alice@example.com,8912734
+David Beckham,9876543210,pilot,True,Oak 9,1892347,David_Emma@example.com,4658723
+Grace Kelly,4567890123,pilot,False,Maple 29,6578234,Grace_Frank@example.com,1238745
+Alice Inwonder,2345678901,attendant,False,Main 18,8956712,Alice_David@example.com,3498721
+Charlie Grover,7890123456,attendant,False,Main 62,8234791,Charlie_Harry@example.com,5678923
+Emma Thompson,3456789012,pilot,True,Maple 73,1293847,Emma_Grace@example.com,9345678
+Alice Cooper,5678901234,attendant,True,Oak 81,3487651,Alice_Emma@example.com,1289347
+Frank Byrne,8901234567,attendant,False,Oak 36,9273845,Frank_Alice@example.com,6578234
+Charlie Charlson,4321098765,attendant,False,Maple 6,7823456,Grace_Charlie@example.com,1234598
+Bob Dole,1098765432,pilot,False,Main 74,4598237,Bob_David@example.com,8765432
+Frank Underwood,6543210987,attendant,True,Oak 54,2318749,Emma_Frank@example.com,7654321
+Hunter Thomson,7890123457,pilot,True,Maple 42,8945721,Alice_Grace@example.com,2345678
+Harry Potter,2109876543,pilot,False,Main 93,6789123,Harry_Bob@example.com,5432198
+Torfi Torfason,0310049887,pilot,True,Götugötu 11,854798563,torfi@torfamail.com,
+Sölvi Sölvason,0512046532,attendant,True,Brekkubrekka 20,865489658,sölvi@sölvamail.is,32158785696
+Leo DiCaprio,0512759865,pilot,True,Streetstreet 75,88596485,leo@gmail.com,
+John Travolta,0503629878,attendant,True,Pulpstreet 22,845898752,john@travolta.is,
+Bruce Willis,2205639865,pilot,True,Hardstreet 55,8546897,bruce@diehard.com,123456789
+Uma Thurman,0306636598,attendant,True,Billstreet 56,6666666666,uma@killbill.com,322168845654

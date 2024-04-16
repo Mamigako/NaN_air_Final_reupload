@@ -1,0 +1,462 @@
+Í hópnum eru:
+Kristófer Helgi 
+Maximilian
+Torfi
+Sölvi
+Bergur
+Kristinn
+
+
+27.11.2023
+
+1. Fundur
+
+11:00
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+-Stofna og skipuleggja GitHub repo fyrir verkefnið
+-Byrja á Notkunartilvikum
+-Byrja á Klasariti
+
+
+Degi lokið 15:30
+
+Verkefnum lokið:
+
+Use Case Diagram
+Klasarit
+Wireframe as Happy Paths
+Requirements list
+
+--------------------------------------------------
+
+28.11.2023
+
+2. Fundur
+
+10:50
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+-Búa til Git Handbókina - Kristófer
+-Búa til Sequence Diagrams/gróf drög af lausninni - Bergur, Sölvi og Max
+-Búa til Hönnunarskýrsluna - Torfi
+
+Degi lokið 14:50
+
+Verkfenum lokið:
+
+Endurskoðun á klasariti
+fyrsta drag af Hönnunarskýrslu
+2 Sequence Diagram
+
+--------------------------------------------------
+
+
+29.11.23
+
+3. Fundur
+
+10:50
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Kristófer kláraði Git handbókina utan vinnutímans.
+
+Ákveðið var að:
+-Allir lesi Git handbókina áður en vinnan hefst
+-Gera User Group Analysis - Torfi
+-Klára Use Cases - Sölvi, Bergur, Kristófer, Torfi
+-Happy Path(Wireframe) - Max
+
+Degi lokið: 16:00
+
+Verkefnum lokið:
+
+-Öll A priority use cases
+-User Group Analysis
+-Happy Path(Wireframe) 
+
+--------------------------------------------------
+
+
+30.11.23
+
+4. Fundur
+
+10:41
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+-Kynna Git aðeins ítarlegra skv. handbókinni
+-Búa til annað branch sem úndirbúning fyrir næstu viku.
+-Status report á hvað á eftir að gera
+-Fókusa á það sem eftir er
+-Endurskoða User Group Analysis template - Max & Bergur
+-Klára Use Cases - Sölvi
+-Endurskoða Class Diagram - Max, Bergur, Kristófer, Sölvi, Torfi
+-Hönnunarskýrsla - Torfi
+
+Verkefnum lokið:
+
+-Use Cases
+-Kröfulisti
+
+Á morgun skal Klasariti og Hönnunarskýrslu verða lokið.
+
+
+--------------------------------------------------
+
+01.12.2023
+
+5. Fundur
+
+10:44
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+-Klára wrapper classes í klasarit - Kristófer & Max
+-Endurgera happy path - Max/Kristófer/Torfi/Bergur/Sölvi
+-Klára uppsetningu á hönnunarskýrslu - Torfi
+ 
+Degi lokið 17:00
+
+Verkefnum lokið:
+-Hönnunarskýrsla(hand-in)
+
+--------------------------------------------------
+
+
+04.12.2023
+
+6. Fundur
+
+12:30
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+-Setja upp beinagrindur fyrir:
+.UI - Bergur
+.Logic - Max & Kristófer
+.Storage - Sölvi & Torfi
+
+degi lokið 16:30
+
+Verkefnum lokið:
+
+-UI beinagrind
+-Logic beinagrind
+-Storage beinagrind
+-Models beinagrind(nema subclasses)
+-Debug file setup handa öllum.
+
+
+--------------------------------------------------
+
+05.12.2023
+
+
+7. Fundur 
+
+10:30
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+-Kóða storage layer - Kristófer
+
+-Kóða logic layer - Max
+
+-Kóða UI layer - Bergur
+
+-Klára docstrings etc. - Torfi & Sölvi
+
+degi lokið 17:00
+
+Verkefnum lokið:
+
+-Engu lokið
+
+--------------------------------------------------
+
+8. Fundur
+
+06.12.2023
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+- Endurhugsa og endurhanna layers - allir
+
+- Google sheet method redundancy report - Torfi
+
+degi lokið 17:25
+
+verkefnum lokið:
+
+- Layer refactoruð að hluta til.
+- Redundancy report
+- GetAllEmployee read/write
+
+--------------------------------------------------
+
+9. Fundur
+
+07.12.2023
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+- Klára add_employee/update_employee - Max
+
+- Klára add_destination/update_destination - Sölvi
+
+- Klára Voyages_Model - Kristófer
+
+- Klára add_Flights - Bergur
+
+- __str__ föll í models
+
+
+degi lokið 18:30
+
+verkefnum lokið:
+- add_employee
+- update_employee
+- add_destination
+- update_destination
+- Voyage model
+- add_flights
+- __str__ f0ll í models
+
+
+--------------------------------------------------
+
+10. Fundur
+
+08.12.2023
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+- Implementa:  - Max
+.Staff Voyage
+.Update Employee
+.Fallskipting Staffer UI
+
+- Logic input validation - Sölvi & Torfi
+ 
+- Use case review/status check - Kristófer & Bergur
+
+- Update class diagram - Bergur
+
+- Prófa staff menu - Bergur 
+
+
+degi lokið 17:30
+
+verkefnum lokið:
+
+- Use case review
+
+- Docstrings fyrir logic layer
+
+- Add_employees + Fallskipting
+
+
+--------------------------------------------------
+
+11. Fundur
+
+11.12.2023
+
+09:30
+
+Verkefnastjóri dags: Kristófer Helgi Sigurðsson
+
+Ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+-Daily use case review - Sölvi
+
+-Laga flight number duplication - Bergur & Kristófer
+
+-List employees not working on date x - Max
+
+-Laga staff menu - Max
+
+-Get all voyages, laga - Bergur
+
+-Logic layer input validation - Sölvi & Torfi.
+
+
+Kristófer fór heim með COVID og kemur ekki það sem eftir er af vikunni.
+
+
+Degi lokið 16:00
+
+
+Verkefnum lokið:
+
+
+- Use case review
+
+- add/update employees
+
+- Staff menu optimisation
+
+- Flight number generation fix
+
+
+Seinni færsla er sein útaf Git veseni sem var ekki leyst fyrir enn í dag 12.12.2023
+
+--------------------------------------------------
+
+
+12.12.2023
+
+12. Fundur
+
+11:15
+
+Verkefnastjóri og ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+- Input validation for Flyer menu - Kristófer
+- List empl. not working on x and working on x - Max
+- Use case review - Sölvi & Torfi
+
+Degi lokið 19:00
+
+Verkefnum lokið:
+
+Engu lokið
+
+--------------------------------------------------
+
+13.12.2023
+
+11:00
+
+
+Verkefnastjóri og ritari dags: Maximilian Klimko
+
+Ákveðið var að:
+
+- Farayfir LL og input validation - Bergur
+
+- Use case review - Sölvi & Torfi
+
+- List employees & Staff Voyage - Max
+
+- Skýrsla - Kristófer
+
+degi lokið 19:30
+
+Verkefnum lokið:
+
+- Input validation
+- List employees not working on x
+- List employees working on x + dest
+- Staff Voyage
+
+--------------------------------------------------
+
+14. Fundur
+
+
+10:20
+
+Verkefnastjóri og ritari dags: Maximilian Klimko
+
+Ákveðið var að: 
+
+- Prufa allar A kröfur - Max & Bergur & Sölvi
+
+- Uppfæra Hönnunarskýrslu - Kristófer
+
+- Laga Voyage og Employee Str föllin - Max & Bergur
+
+- Búa til ASCII frame fyrir UI Menus - Max
+
+degi lokið 17:20
+
+Verkefnum lokið:
+
+- Ascii art fyrir menu
+- Allskonar bugfixes í voyages
+- Mikilvægar breytingar á __str__ föllum í models
+- Use case testing
+- List Voyages update
+
+--------------------------------------------------
+
+15. Fundur
+
+Verkefnastjóri og ritari dags: Maximilian Klimko
+
+Akveðið var að:
+
+- Fara í gegnum kröfulistann og sjá til þess að þær séu réttir bæði miðað við verkefnið og forritið okkar. - Bergur
+
+- Fara í gegnum öll notkunartilvik okkar og vera viss um að allt stemmi við forritið. - Kristófer
+
+- Ef notkunartilvik stemmir, þá á að bæta því inn í hönnunarskýrsluna. - Bergur
+
+- Klára að sannreyna voyage og destination io í klasariti - Kristófer
+
+- Klára model ritið og tengingar innan þess. - Max & Kristófer
+
+- Skrifa lokaorð - Max
+
+- Fjarlægða ónothæfar athugasemdir í kóða eins og t.d. "# n" - Torfi & Sölvi
+
+- Klára að fínpússa kóða - Max
+
+- Taka upp myndband af notkun kerfisins - Allir
+
+- Taka saman hvað á að breyta í zip skrá og skila inn - Allir
+
+Degi lokið 20:45
+
+- Allar A kröfur implementaðar
+
+- Hand-in skilað sem .zip skrá ásamt readme og link á youtube video
+
+- Forritið keyrir í terminal.
+
+- Seinasta dagbókarfærsla
+
+Verkefni lokið.
